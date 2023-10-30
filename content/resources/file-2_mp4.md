@@ -15,7 +15,7 @@ resourcetype: Video
 title: file 2.mp4
 uid: 482e7a4b-3d87-4fbd-a4ab-a23f9a319731
 video_files:
-  archive_url: https://archive.org/download/MIT5.310F19/MIT5_310F19_lec04_300k.mp4
+  archive_url: https://www.google.com
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
