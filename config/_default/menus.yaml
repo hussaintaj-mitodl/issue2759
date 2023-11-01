@@ -1,5 +1,6 @@
 leftnav:
-- identifier: external--1632447086-1698830952717
+- identifier: external--1632447086-1698831675918
   name: video
+  treatAsInternalLink: true
   url: https://www.google.com
   weight: 10
