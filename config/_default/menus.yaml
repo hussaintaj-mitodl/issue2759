@@ -1,5 +1,6 @@
 leftnav:
-- identifier: 482e7a4b-3d87-4fbd-a4ab-a23f9a319731
+- identifier: external--1632447086-1698831675918
   name: video
-  pageRef: /resources/file-2_mp4
+  treatAsInternalLink: true
+  url: https://www.google.com
   weight: 10
